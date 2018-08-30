@@ -1,2 +1,3 @@
 # MoneyManger
 写着练手用的...
+mySQL,JDBC,JAVA,servlet，JSP
